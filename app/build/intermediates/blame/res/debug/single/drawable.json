@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\test\\Desktop\\Sectioned ListView Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_bg.xml",
+        "source": "C:\\Users\\test\\Desktop\\Sectioned ListView Android1\\app\\src\\main\\res\\drawable\\list_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\test\\Desktop\\Sectioned ListView Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alphabet_separator_bg.xml",
+        "source": "C:\\Users\\test\\Desktop\\Sectioned ListView Android1\\app\\src\\main\\res\\drawable\\alphabet_separator_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\test\\Desktop\\Sectioned ListView Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_gradient_title_bg.png",
+        "source": "C:\\Users\\test\\Desktop\\Sectioned ListView Android1\\app\\src\\main\\res\\drawable\\gray_gradient_title_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\test\\Desktop\\Sectioned ListView Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alphabet_default.xml",
+        "source": "C:\\Users\\test\\Desktop\\Sectioned ListView Android1\\app\\src\\main\\res\\drawable\\alphabet_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\test\\Desktop\\Sectioned ListView Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_search.png",
+        "source": "C:\\Users\\test\\Desktop\\Sectioned ListView Android1\\app\\src\\main\\res\\drawable\\ic_menu_search.png"
+    },
+    {
+        "merged": "C:\\Users\\test\\Desktop\\Sectioned ListView Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alphabet_selected.xml",
+        "source": "C:\\Users\\test\\Desktop\\Sectioned ListView Android1\\app\\src\\main\\res\\drawable\\alphabet_selected.xml"
+    }
+]
